@@ -1,0 +1,10 @@
+body{
+    background: green;
+}
+.container{
+    margin:20px 0px 20px 0px;
+}
+
+.alert{
+    color: white;
+}
